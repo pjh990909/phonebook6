@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: phonebook6
+Bundle-SymbolicName: phonebook6
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: phonebook6
+Export-Package: com.javaex,
+ com.javaex.controller,
+ com.javaex.dao,
+ com.javaex.service,
+ com.javaex.vo
