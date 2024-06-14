@@ -5,7 +5,7 @@
 	
 	
 	<!-- namespace 바꾸고, 쿼리문 작성-->
-	
+	<!-- 등록 -->
 	<insert id="insert" parameterType="com.javaex.vo.PersonVo">
 		<![CDATA[
 			INSERT INTO person
